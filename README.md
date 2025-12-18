@@ -42,3 +42,6 @@ csharp
 ## Contributing
 Contributions are welcome. Feel free to submit issues or pull requests. Please follow the standard C# and XAML coding conventions to maintain readability and consistency.
 
+## License
+
+This project is licensed under the MIT License.
