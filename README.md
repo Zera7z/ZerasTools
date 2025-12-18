@@ -8,7 +8,7 @@ Zera's Tools is a lightweight, modern desktop application built with WPF (.NET F
 
 - **Home Page**: Provides information and a link to the GitHub repository.  
 - **Image to ICO Converter**: Convert PNG or JPG images into Windows-compatible ICO files. Automatically names the output as `original filename {Converted by Zera}.ico`.  
-- **Settings Window**: Access application settings (top-right gear icon).  
+- **Settings Window**: Access application settings (top-right gear icon). (WIP)
 - **Modern UI**: Rounded sidebar, draggable top bar, and integrated minimize and close buttons.  
 - **Resizable Buttons**: Sidebar buttons adjust size to emphasize important tools.  
 
