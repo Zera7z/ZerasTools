@@ -26,7 +26,7 @@ Build the project.
 
 Run the application.
 
-Usage
+## Usage
 Launch the application. The default page is Home.
 
 Navigate to Image to ICO from the sidebar.
@@ -35,10 +35,10 @@ Drag and drop an image or use the Browse button to select a PNG/JPG file.
 
 Click Convert to generate the ICO file.
 
-The output file is saved in the same folder as the original with the name format:
+The output file is saved in the same folder as the original with the name format: `original filename {Converted by Zera}.ico`
 
 csharp
 
-Contributing
+## Contributing
 Contributions are welcome. Feel free to submit issues or pull requests. Please follow the standard C# and XAML coding conventions to maintain readability and consistency.
 
