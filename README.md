@@ -20,3 +20,9 @@ Zera's Tools is a lightweight, modern desktop application built with WPF (.NET F
 
    ```bash
    git clone https://github.com/Zera7z/ZerasTools.git
+
+Open the solution in Visual Studio 2019+.
+
+Build the project.
+
+Run the application.
